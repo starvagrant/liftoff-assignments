@@ -7,12 +7,31 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+My work uses kvm units for offering remote access to physical hardware for
+our customer base. The embedded web servers in this products have a cumbersome
+interface and don't necessarily play well with the rest of our infrastructure.
+I propoe a command line interface that will handle connection, diagnostics,
+authentication, and file sharing for this devices.
+
 ### Features
-Include Features here
+
+The cli will include the ability to launch the kvm-console from the command
+line, perform diagnostics on kvm units, automate strong password for our
+client accounts, integrate with our company's mail system, and lastly work
+in tandem with or samba server to preload isos for remote (re)installation.
+
 ### Technologies
-Include Technologies here
+
+- Bash
+- KVM
+- Samba
+- Mail X
+- WHCMS Ticket System
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+Bash, Samba
+
 ### Project Tracker
-Link to your Trello board here
+[KVM CLI Trello](https://trello.com/b/YACPxsEh/kvm-cli)
