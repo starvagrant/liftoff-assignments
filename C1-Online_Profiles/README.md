@@ -7,12 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Github Account](https://github.com/starvagrant)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn Account](https://www.linkedin.com/in/james-ginns-226a4b65/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+[LC_Template_Resume](resume/resume.pdf)
